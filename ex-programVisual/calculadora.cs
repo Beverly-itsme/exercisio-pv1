@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -27,7 +27,7 @@ namespace ex_programVisual
                 Console.WriteLine("0 - Sair");
                 Console.Write("Escolha uma opção: ");
 
-                if (!int.TryParse(Console.ReadLine(), out opcao))
+                if (!int.TryParse(Console.ReadLine(), out opcao)) // ele tenta converter o int para string mas tem o um sinal de negacao entao se ele nao consege ele manda a mensagem
                 {
                     Console.WriteLine("Opção inválida! Pressione Enter para tentar novamente.");
                     Console.ReadLine();
@@ -89,7 +89,7 @@ namespace ex_programVisual
         {
             double valor;
             Console.Write(mensagem);
-            while (!double.TryParse(Console.ReadLine(), out valor))
+            while (!double.TryParse(Console.ReadLine(), out valor))// ele tenta converter o double para string mas tem o um sinal de negacao entao se ele nao consege ele manda a mensagem 
             {
                 Console.Write("Valor inválido. Tente novamente: ");
             }
@@ -97,4 +97,4 @@ namespace ex_programVisual
         }
     }
 
-}
+}*/
