@@ -1,0 +1,15 @@
+C:\Users\huawei\Desktop\ex-pv\ex-programVisual\ex-programVisual\bin\Debug\net8.0\ex-programVisual.exe
+C:\Users\huawei\Desktop\ex-pv\ex-programVisual\ex-programVisual\bin\Debug\net8.0\ex-programVisual.deps.json
+C:\Users\huawei\Desktop\ex-pv\ex-programVisual\ex-programVisual\bin\Debug\net8.0\ex-programVisual.runtimeconfig.json
+C:\Users\huawei\Desktop\ex-pv\ex-programVisual\ex-programVisual\bin\Debug\net8.0\ex-programVisual.dll
+C:\Users\huawei\Desktop\ex-pv\ex-programVisual\ex-programVisual\bin\Debug\net8.0\ex-programVisual.pdb
+C:\Users\huawei\Desktop\ex-pv\ex-programVisual\ex-programVisual\obj\Debug\net8.0\ex-programVisual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huawei\Desktop\ex-pv\ex-programVisual\ex-programVisual\obj\Debug\net8.0\ex-programVisual.AssemblyInfoInputs.cache
+C:\Users\huawei\Desktop\ex-pv\ex-programVisual\ex-programVisual\obj\Debug\net8.0\ex-programVisual.AssemblyInfo.cs
+C:\Users\huawei\Desktop\ex-pv\ex-programVisual\ex-programVisual\obj\Debug\net8.0\ex-programVisual.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\ex-pv\ex-programVisual\ex-programVisual\obj\Debug\net8.0\ex-programVisual.sourcelink.json
+C:\Users\huawei\Desktop\ex-pv\ex-programVisual\ex-programVisual\obj\Debug\net8.0\ex-programVisual.dll
+C:\Users\huawei\Desktop\ex-pv\ex-programVisual\ex-programVisual\obj\Debug\net8.0\refint\ex-programVisual.dll
+C:\Users\huawei\Desktop\ex-pv\ex-programVisual\ex-programVisual\obj\Debug\net8.0\ex-programVisual.pdb
+C:\Users\huawei\Desktop\ex-pv\ex-programVisual\ex-programVisual\obj\Debug\net8.0\ex-programVisual.genruntimeconfig.cache
+C:\Users\huawei\Desktop\ex-pv\ex-programVisual\ex-programVisual\obj\Debug\net8.0\ref\ex-programVisual.dll
