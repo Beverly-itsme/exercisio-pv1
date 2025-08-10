@@ -1,4 +1,4 @@
-﻿using System;
+﻿/* using System;
 using System.Linq;
 
 class Programa
@@ -38,4 +38,4 @@ class Programa
         Console.ReadLine();
     }
 }
-
+*/
